@@ -11,27 +11,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# BINI
+![Image](https://photos.google.com/photo/AF1QipNiZqyJDxsLiF8ojlOnfho4Uf87eW3Wc1pQdju7)
+## Home -- [Link](https://www.google.com/maps/place/466+Silverwood+St,+Brentwood,+CA+94513/@37.9319153,-121.696657,15z/data=!4m13!1m7!3m6!1s0x808ffe9180ea2bdd:0x26a019c7c1bce2a6!2s466+Silverwood+St,+Brentwood,+CA+94513!3b1!8m2!3d37.9319153!4d-121.6879023!3m4!1s0x808ffe9180ea2bdd:0x26a019c7c1bce2a6!8m2!3d37.9319153!4d-121.6879023)
+## Phone Number -- 650-469-2161
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leophar20/BINI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
