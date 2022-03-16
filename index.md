@@ -4,7 +4,7 @@
 
 ## Owner's Name: Raphael Landre Borlongan
 ## Phone Number: 650-469-2161
-## Email: mailto:leophar20@gmail.com
+## [Email](mailto:leophar20@gmail.com)
 ## AGE: 6 months
 
 
